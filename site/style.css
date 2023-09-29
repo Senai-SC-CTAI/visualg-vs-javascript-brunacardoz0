@@ -1,0 +1,63 @@
+body{
+    background-image: url(fundo.jpg);
+    background-size: 1650px, 320px;
+    overflow: hidden;
+    background-color: #011126;
+    background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100vw;
+    height: 100vh;
+    font-size: xx-large;
+    text-align: center;
+    }
+    div{
+      background-color: #184059ab;
+      height: min-content;
+      border: solid;
+      width: fit-content;
+      padding: 20px;
+      margin: auto;
+      border-width: 0px;
+      padding-bottom: 10px;
+      border-radius: 10px;
+      border-color: #7a77d9b7 ;
+    }
+    #senhaLabel{
+      margin-right: 65%;
+    }
+    label{
+      font-size: small;
+      text-align: start;
+      margin-right: 62%;
+      color: white;
+     
+    }
+    input{
+      background-color: #afd9adbb;
+      width: 200px;
+      height: 20px;
+      border-radius: 3px;
+      text-align: start;
+      font-size: large;
+    }
+    button{
+      background-color:#0B1C26;
+      width: 210px;
+      height: 30px;
+      border-radius: 3px;
+      font-size: medium;
+      color: white;
+      margin-bottom: 10PX;
+      
+    }
+    h3{ color:#011126;
+    }
+    h1{
+      color: white ;
+      margin: 0;
+    }
+    button:active {
+        background-color: #0075db;
+      }
+    
+    
